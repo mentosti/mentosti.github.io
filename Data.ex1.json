@@ -1,0 +1,3740 @@
+{
+  "Start": "2004-12-31T23:00:00Z",
+  "End": "2019-12-31T23:00:00Z",
+  "Name": "EIUEX161",
+  "ProblemsInfo": {
+    "3862": {
+      "Id": 3862,
+      "TimeLimit": 1.0,
+      "Code": "ADDNUMS",
+      "Name": "ADDNUMS",
+      "Type": 0,
+      "ProblemSet": "retest"
+    },
+    "9932": {
+      "Id": 9932,
+      "TimeLimit": 0.2,
+      "Code": "BCCOMMAS",
+      "Name": "Ch&#232;n d&#7845;u ph&#7849;y",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "22688": {
+      "Id": 22688,
+      "TimeLimit": 1.0,
+      "Code": "EIUBISEA",
+      "Name": "Binary search",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "23321": {
+      "Id": 23321,
+      "TimeLimit": 7.0,
+      "Code": "EIUSEARC",
+      "Name": "Identity number",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "23770": {
+      "Id": 23770,
+      "TimeLimit": 5.0,
+      "Code": "SE_0021",
+      "Name": "Multiple sums",
+      "Type": 0,
+      "ProblemSet": "retest"
+    },
+    "23958": {
+      "Id": 23958,
+      "TimeLimit": 1.0,
+      "Code": "EIUPREIU",
+      "Name": "EIU",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "24000": {
+      "Id": 24000,
+      "TimeLimit": 1.0,
+      "Code": "LOGGING",
+      "Name": "Logging",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "24001": {
+      "Id": 24001,
+      "TimeLimit": 3.0,
+      "Code": "EIUGAME",
+      "Name": "Đường Đi",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "24046": {
+      "Id": 24046,
+      "TimeLimit": 1.0,
+      "Code": "EITAX",
+      "Name": "Thuế thu nhập cá nhân",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "26110": {
+      "Id": 26110,
+      "TimeLimit": 1.0,
+      "Code": "EITREORD",
+      "Name": "Postorder",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "26596": {
+      "Id": 26596,
+      "TimeLimit": 1.0,
+      "Code": "PROTRIENLAM",
+      "Name": "Triển lãm tranh",
+      "Type": 0,
+      "ProblemSet": "retest"
+    },
+    "26849": {
+      "Id": 26849,
+      "TimeLimit": 1.0,
+      "Code": "C4_A002",
+      "Name": "Chap 4 - Merge Sort",
+      "Type": 0,
+      "ProblemSet": "retest"
+    },
+    "26900": {
+      "Id": 26900,
+      "TimeLimit": 1.0,
+      "Code": "PRO_QUA",
+      "Name": "Tặng Quà",
+      "Type": 0,
+      "ProblemSet": "retest"
+    },
+    "26951": {
+      "Id": 26951,
+      "TimeLimit": 2.0,
+      "Code": "EIUSUBSET",
+      "Name": "Tập hợp con",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "27111": {
+      "Id": 27111,
+      "TimeLimit": 2.0,
+      "Code": "EIUMEDARRAY4",
+      "Name": "Array Problem 4",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "27250": {
+      "Id": 27250,
+      "TimeLimit": 1.0,
+      "Code": "EIUINV",
+      "Name": "Đầu tư",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "27251": {
+      "Id": 27251,
+      "TimeLimit": 1.0,
+      "Code": "EIUCONS",
+      "Name": "Tư vấn du lịch",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "27252": {
+      "Id": 27252,
+      "TimeLimit": 1.0,
+      "Code": "EIUCOL",
+      "Name": "Chi phí sinh hoạt",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "28478": {
+      "Id": 28478,
+      "TimeLimit": 1.0,
+      "Code": "EICLEANU",
+      "Name": "Dọn dẹp!",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "28480": {
+      "Id": 28480,
+      "TimeLimit": 1.0,
+      "Code": "EIEXCERC",
+      "Name": "Công việc hóc búa",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "28491": {
+      "Id": 28491,
+      "TimeLimit": 1.0,
+      "Code": "EIBORROW",
+      "Name": "Mượn tiền sao khó khăn quá!",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "28619": {
+      "Id": 28619,
+      "TimeLimit": 1.0,
+      "Code": "EIPAINTING",
+      "Name": "Triển lãm tranh 2",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "28660": {
+      "Id": 28660,
+      "TimeLimit": 1.0,
+      "Code": "EISECRETFUNCTION",
+      "Name": "Secret function",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "28746": {
+      "Id": 28746,
+      "TimeLimit": 1.0,
+      "Code": "EITWOPRIME",
+      "Name": "Tổng hai số nguyên tố",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "28748": {
+      "Id": 28748,
+      "TimeLimit": 1.0,
+      "Code": "EIPYRAMID",
+      "Name": "Kim tự tháp bất ổn",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "29007": {
+      "Id": 29007,
+      "TimeLimit": 2.0,
+      "Code": "EITHIEF",
+      "Name": "Trộm!",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "29122": {
+      "Id": 29122,
+      "TimeLimit": 1.0,
+      "Code": "EIPOWMOD2",
+      "Name": "PowMod function",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "29156": {
+      "Id": 29156,
+      "TimeLimit": 1.0,
+      "Code": "EILETTERS",
+      "Name": "Thư mã hóa!",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "29333": {
+      "Id": 29333,
+      "TimeLimit": 1.0,
+      "Code": "EITHIEF2",
+      "Name": "Trộm 2",
+      "Type": 2,
+      "ProblemSet": "retest"
+    },
+    "29364": {
+      "Id": 29364,
+      "TimeLimit": 1.0,
+      "Code": "EIUGAME2",
+      "Name": "Đếm đường đi!",
+      "Type": 2,
+      "ProblemSet": "retest"
+    }
+  },
+  "Users": {
+    "257631": {
+      "UserId": 257631,
+      "Username": "haminhngoc",
+      "DisplayName": "Minh Ngoc (Y)",
+      "Email": "haminhngoc@yahoo.com",
+      "Problems": {}
+    },
+    "280057": {
+      "UserId": 280057,
+      "Username": "ndttai",
+      "DisplayName": "FighterFighterFighter",
+      "Email": "ndttai.smileorcry@gmail.com",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228368,
+              "Time": "2016-11-21T02:37:35Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "Java"
+            },
+            {
+              "Id": 18228379,
+              "Time": "2016-11-21T02:38:52Z",
+              "Score": 77.78,
+              "RunTime": 1.23,
+              "Language": "Java"
+            },
+            {
+              "Id": 18228408,
+              "Time": "2016-11-21T02:45:38Z",
+              "Score": 100.0,
+              "RunTime": 1.4,
+              "Language": "Java"
+            }
+          ]
+        }
+      }
+    },
+    "298403": {
+      "UserId": 298403,
+      "Username": "ei130011tphu",
+      "DisplayName": "CPhú",
+      "Email": "phu.chu.k3set@eiu.edu.vn",
+      "Problems": {
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228240,
+              "Time": "2016-11-21T02:15:23Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "Java"
+            },
+            {
+              "Id": 18228274,
+              "Time": "2016-11-21T02:20:47Z",
+              "Score": 100.0,
+              "RunTime": 7.97,
+              "Language": "Java"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18228529,
+              "Time": "2016-11-21T03:11:41Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "Java"
+            },
+            {
+              "Id": 18228555,
+              "Time": "2016-11-21T03:16:48Z",
+              "Score": 20.0,
+              "RunTime": 2.87,
+              "Language": "Java"
+            },
+            {
+              "Id": 18228558,
+              "Time": "2016-11-21T03:17:47Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "Java"
+            },
+            {
+              "Id": 18228570,
+              "Time": "2016-11-21T03:19:42Z",
+              "Score": 20.0,
+              "RunTime": 2.88,
+              "Language": "Java"
+            },
+            {
+              "Id": 18228589,
+              "Time": "2016-11-21T03:24:58Z",
+              "Score": 20.0,
+              "RunTime": 2.87,
+              "Language": "Java"
+            }
+          ]
+        }
+      }
+    },
+    "325416": {
+      "UserId": 325416,
+      "Username": "ei110016thanh",
+      "DisplayName": "Hoang Trung Thanh",
+      "Email": "thanh.hoang.k1set@eiu.edu.vn",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228737,
+              "Time": "2016-11-21T03:58:20Z",
+              "Score": 100.0,
+              "RunTime": 0.67,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28619": {
+          "Id": 28619,
+          "Code": "EIPAINTING",
+          "Submissions": [
+            {
+              "Id": 18247214,
+              "Time": "2016-11-24T01:05:03Z",
+              "Score": 100.0,
+              "RunTime": 3.75,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247235,
+              "Time": "2016-11-24T01:10:45Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247237,
+              "Time": "2016-11-24T01:11:53Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247241,
+              "Time": "2016-11-24T01:13:24Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26596": {
+          "Id": 26596,
+          "Code": "PROTRIENLAM",
+          "Submissions": [
+            {
+              "Id": 18247332,
+              "Time": "2016-11-24T01:37:54Z",
+              "Score": 100.0,
+              "RunTime": 0.02,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23958": {
+          "Id": 23958,
+          "Code": "EIUPREIU",
+          "Submissions": [
+            {
+              "Id": 18247466,
+              "Time": "2016-11-24T02:16:26Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            }
+          ]
+        },
+        "24046": {
+          "Id": 24046,
+          "Code": "EITAX",
+          "Submissions": [
+            {
+              "Id": 18247882,
+              "Time": "2016-11-24T04:10:38Z",
+              "Score": 56.67,
+              "RunTime": 0.17,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "385911": {
+      "UserId": 385911,
+      "Username": "ei120011dat",
+      "DisplayName": "Dat",
+      "Email": "dat.nguyen.k2set@eiu.edu.vn",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228226,
+              "Time": "2016-11-21T02:13:34Z",
+              "Score": 77.78,
+              "RunTime": 0.36,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228245,
+              "Time": "2016-11-21T02:15:54Z",
+              "Score": 100.0,
+              "RunTime": 0.41,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23770": {
+          "Id": 23770,
+          "Code": "SE_0021",
+          "Submissions": [
+            {
+              "Id": 18247168,
+              "Time": "2016-11-24T00:50:23Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247307,
+              "Time": "2016-11-24T01:30:55Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247318,
+              "Time": "2016-11-24T01:34:32Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247402,
+              "Time": "2016-11-24T02:00:14Z",
+              "Score": 100.0,
+              "RunTime": 0.08,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29156": {
+          "Id": 29156,
+          "Code": "EILETTERS",
+          "Submissions": [
+            {
+              "Id": 18247192,
+              "Time": "2016-11-24T00:58:47Z",
+              "Score": 100.0,
+              "RunTime": 0.16,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26596": {
+          "Id": 26596,
+          "Code": "PROTRIENLAM",
+          "Submissions": [
+            {
+              "Id": 18247204,
+              "Time": "2016-11-24T01:03:01Z",
+              "Score": 100.0,
+              "RunTime": 0.06,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28619": {
+          "Id": 28619,
+          "Code": "EIPAINTING",
+          "Submissions": [
+            {
+              "Id": 18247210,
+              "Time": "2016-11-24T01:04:17Z",
+              "Score": 100.0,
+              "RunTime": 3.72,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29333": {
+          "Id": 29333,
+          "Code": "EITHIEF2",
+          "Submissions": [
+            {
+              "Id": 18247329,
+              "Time": "2016-11-24T01:36:54Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247330,
+              "Time": "2016-11-24T01:37:42Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247411,
+              "Time": "2016-11-24T02:01:57Z",
+              "Score": 4.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247428,
+              "Time": "2016-11-24T02:05:51Z",
+              "Score": 4.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247465,
+              "Time": "2016-11-24T02:16:16Z",
+              "Score": 100.0,
+              "RunTime": 0.16,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18247467,
+              "Time": "2016-11-24T02:16:35Z",
+              "Score": 100.0,
+              "RunTime": 0.15,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18247590,
+              "Time": "2016-11-24T02:49:02Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247767,
+              "Time": "2016-11-24T03:34:16Z",
+              "Score": 100.0,
+              "RunTime": 2.65,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247592,
+              "Time": "2016-11-24T02:49:16Z",
+              "Score": 100.0,
+              "RunTime": 9.04,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247659,
+              "Time": "2016-11-24T03:02:19Z",
+              "Score": 100.0,
+              "RunTime": 0.31,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23958": {
+          "Id": 23958,
+          "Code": "EIUPREIU",
+          "Submissions": [
+            {
+              "Id": 18247718,
+              "Time": "2016-11-24T03:23:20Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247805,
+              "Time": "2016-11-24T03:45:26Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247810,
+              "Time": "2016-11-24T03:46:51Z",
+              "Score": 100.0,
+              "RunTime": 0.14,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18247867,
+              "Time": "2016-11-24T04:05:32Z",
+              "Score": 50.0,
+              "RunTime": 0.13,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247876,
+              "Time": "2016-11-24T04:07:49Z",
+              "Score": 100.0,
+              "RunTime": 4.17,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28746": {
+          "Id": 28746,
+          "Code": "EITWOPRIME",
+          "Submissions": [
+            {
+              "Id": 18247929,
+              "Time": "2016-11-24T04:21:13Z",
+              "Score": 90.0,
+              "RunTime": 0.56,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "386066": {
+      "UserId": 386066,
+      "Username": "ei120001duy",
+      "DisplayName": "Duy",
+      "Email": "duy.dang.k2set@eiu.edu.vn",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18227953,
+              "Time": "2016-11-21T01:27:41Z",
+              "Score": 100.0,
+              "RunTime": 0.45,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23770": {
+          "Id": 23770,
+          "Code": "SE_0021",
+          "Submissions": [
+            {
+              "Id": 18247181,
+              "Time": "2016-11-24T00:54:27Z",
+              "Score": 100.0,
+              "RunTime": 0.07,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18247202,
+              "Time": "2016-11-24T01:02:44Z",
+              "Score": 100.0,
+              "RunTime": 0.16,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247244,
+              "Time": "2016-11-24T01:14:32Z",
+              "Score": 80.0,
+              "RunTime": 9.09,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247251,
+              "Time": "2016-11-24T01:15:20Z",
+              "Score": 100.0,
+              "RunTime": 9.23,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247277,
+              "Time": "2016-11-24T01:22:56Z",
+              "Score": 100.0,
+              "RunTime": 0.28,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18247316,
+              "Time": "2016-11-24T01:33:46Z",
+              "Score": 100.0,
+              "RunTime": 5.3,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "386158": {
+      "UserId": 386158,
+      "Username": "ei150005tuanle",
+      "DisplayName": "Tuan Le",
+      "Email": "tuan.le.set15@eiu.edu.vn",
+      "Problems": {
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228141,
+              "Time": "2016-11-21T02:00:36Z",
+              "Score": 66.67,
+              "RunTime": 0.2,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228184,
+              "Time": "2016-11-21T02:06:01Z",
+              "Score": 66.67,
+              "RunTime": 0.17,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228392,
+              "Time": "2016-11-21T02:41:24Z",
+              "Score": 100.0,
+              "RunTime": 5.4,
+              "Language": "C#"
+            }
+          ]
+        },
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228254,
+              "Time": "2016-11-21T02:17:42Z",
+              "Score": 77.78,
+              "RunTime": 0.37,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228678,
+              "Time": "2016-11-21T03:44:45Z",
+              "Score": 100.0,
+              "RunTime": 0.45,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18228532,
+              "Time": "2016-11-21T03:11:55Z",
+              "Score": 60.0,
+              "RunTime": 0.79,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228621,
+              "Time": "2016-11-21T03:34:33Z",
+              "Score": 100.0,
+              "RunTime": 10.36,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247178,
+              "Time": "2016-11-24T00:54:05Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247186,
+              "Time": "2016-11-24T00:56:31Z",
+              "Score": 100.0,
+              "RunTime": 0.25,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23770": {
+          "Id": 23770,
+          "Code": "SE_0021",
+          "Submissions": [
+            {
+              "Id": 18247218,
+              "Time": "2016-11-24T01:05:58Z",
+              "Score": 100.0,
+              "RunTime": 0.08,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28619": {
+          "Id": 28619,
+          "Code": "EIPAINTING",
+          "Submissions": [
+            {
+              "Id": 18247236,
+              "Time": "2016-11-24T01:11:11Z",
+              "Score": 72.0,
+              "RunTime": 1.52,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247267,
+              "Time": "2016-11-24T01:19:48Z",
+              "Score": 72.0,
+              "RunTime": 1.53,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247273,
+              "Time": "2016-11-24T01:21:50Z",
+              "Score": 100.0,
+              "RunTime": 3.67,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26596": {
+          "Id": 26596,
+          "Code": "PROTRIENLAM",
+          "Submissions": [
+            {
+              "Id": 18247292,
+              "Time": "2016-11-24T01:26:42Z",
+              "Score": 100.0,
+              "RunTime": 0.05,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18247348,
+              "Time": "2016-11-24T01:43:15Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247462,
+              "Time": "2016-11-24T02:14:45Z",
+              "Score": 50.0,
+              "RunTime": 0.02,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247470,
+              "Time": "2016-11-24T02:17:03Z",
+              "Score": 100.0,
+              "RunTime": 3.37,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247510,
+              "Time": "2016-11-24T02:27:04Z",
+              "Score": 100.0,
+              "RunTime": 5.13,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "386281": {
+      "UserId": 386281,
+      "Username": "ei120033doanh",
+      "DisplayName": "Nguyen Van Doanh",
+      "Email": "doanh.nguyen.k2set@eiu.edu.vn",
+      "Problems": {
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18227974,
+              "Time": "2016-11-21T01:31:15Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": ""
+            },
+            {
+              "Id": 18227977,
+              "Time": "2016-11-21T01:31:25Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18227994,
+              "Time": "2016-11-21T01:35:31Z",
+              "Score": 66.67,
+              "RunTime": 0.21,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228006,
+              "Time": "2016-11-21T01:37:55Z",
+              "Score": 66.67,
+              "RunTime": 0.2,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228025,
+              "Time": "2016-11-21T01:40:58Z",
+              "Score": 100.0,
+              "RunTime": 3.2,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18228100,
+              "Time": "2016-11-21T01:52:44Z",
+              "Score": 100.0,
+              "RunTime": 0.35,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18228201,
+              "Time": "2016-11-21T02:09:34Z",
+              "Score": 100.0,
+              "RunTime": 5.87,
+              "Language": "C#"
+            }
+          ]
+        },
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228314,
+              "Time": "2016-11-21T02:28:45Z",
+              "Score": 100.0,
+              "RunTime": 0.45,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18228533,
+              "Time": "2016-11-21T03:11:56Z",
+              "Score": 60.0,
+              "RunTime": 0.82,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228573,
+              "Time": "2016-11-21T03:21:11Z",
+              "Score": 50.0,
+              "RunTime": 0.12,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247194,
+              "Time": "2016-11-24T00:59:21Z",
+              "Score": 100.0,
+              "RunTime": 0.16,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "386362": {
+      "UserId": 386362,
+      "Username": "ei120007son",
+      "DisplayName": "SK2",
+      "Email": "son.nguyen.k2set@eiu.edu.vn",
+      "Problems": {}
+    },
+    "386400": {
+      "UserId": 386400,
+      "Username": "ei150037nhan",
+      "DisplayName": "HoàiNhân",
+      "Email": "nhan.nguyenhoai.set15@eiu.edu.vn",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18227989,
+              "Time": "2016-11-21T01:34:36Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228023,
+              "Time": "2016-11-21T01:40:47Z",
+              "Score": 100.0,
+              "RunTime": 0.45,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18228127,
+              "Time": "2016-11-21T01:57:41Z",
+              "Score": 56.0,
+              "RunTime": 8.6,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228145,
+              "Time": "2016-11-21T02:00:47Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228153,
+              "Time": "2016-11-21T02:01:45Z",
+              "Score": 56.0,
+              "RunTime": 8.68,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228172,
+              "Time": "2016-11-21T02:05:15Z",
+              "Score": 56.0,
+              "RunTime": 8.02,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228211,
+              "Time": "2016-11-21T02:11:08Z",
+              "Score": 100.0,
+              "RunTime": 8.67,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228357,
+              "Time": "2016-11-21T02:35:15Z",
+              "Score": 100.0,
+              "RunTime": 4.05,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28619": {
+          "Id": 28619,
+          "Code": "EIPAINTING",
+          "Submissions": [
+            {
+              "Id": 18247233,
+              "Time": "2016-11-24T01:10:25Z",
+              "Score": 100.0,
+              "RunTime": 3.78,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23770": {
+          "Id": 23770,
+          "Code": "SE_0021",
+          "Submissions": [
+            {
+              "Id": 18247255,
+              "Time": "2016-11-24T01:16:11Z",
+              "Score": 100.0,
+              "RunTime": 0.09,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247311,
+              "Time": "2016-11-24T01:32:03Z",
+              "Score": 100.0,
+              "RunTime": 0.22,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18247351,
+              "Time": "2016-11-24T01:44:11Z",
+              "Score": 100.0,
+              "RunTime": 5.3,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247420,
+              "Time": "2016-11-24T02:04:15Z",
+              "Score": 100.0,
+              "RunTime": 7.78,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "386524": {
+      "UserId": 386524,
+      "Username": "ei139040cuong",
+      "DisplayName": "Hồ Minh Cường",
+      "Email": "cuong.ho.k3set@eiu.edu.vn",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228058,
+              "Time": "2016-11-21T01:45:27Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228128,
+              "Time": "2016-11-21T01:57:52Z",
+              "Score": 100.0,
+              "RunTime": 4.07,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18228466,
+              "Time": "2016-11-21T02:57:28Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228648,
+              "Time": "2016-11-21T03:39:05Z",
+              "Score": 100.0,
+              "RunTime": 8.21,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28660": {
+          "Id": 28660,
+          "Code": "EISECRETFUNCTION",
+          "Submissions": [
+            {
+              "Id": 18247310,
+              "Time": "2016-11-24T01:31:12Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18247314,
+              "Time": "2016-11-24T01:32:41Z",
+              "Score": 100.0,
+              "RunTime": 0.17,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "387273": {
+      "UserId": 387273,
+      "Username": "ei110031quy",
+      "DisplayName": "nhat quy",
+      "Email": "secret.silent.qt@gmail.com",
+      "Problems": {
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228049,
+              "Time": "2016-11-21T01:44:30Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": ""
+            },
+            {
+              "Id": 18228075,
+              "Time": "2016-11-21T01:47:54Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": ""
+            },
+            {
+              "Id": 18228087,
+              "Time": "2016-11-21T01:49:31Z",
+              "Score": 76.19,
+              "RunTime": 1.17,
+              "Language": ""
+            }
+          ]
+        },
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228222,
+              "Time": "2016-11-21T02:13:08Z",
+              "Score": 66.67,
+              "RunTime": 0.25,
+              "Language": ""
+            },
+            {
+              "Id": 18228425,
+              "Time": "2016-11-21T02:48:06Z",
+              "Score": 77.78,
+              "RunTime": 0.26,
+              "Language": ""
+            }
+          ]
+        },
+        "23770": {
+          "Id": 23770,
+          "Code": "SE_0021",
+          "Submissions": [
+            {
+              "Id": 18247461,
+              "Time": "2016-11-24T02:14:41Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247468,
+              "Time": "2016-11-24T02:16:47Z",
+              "Score": 100.0,
+              "RunTime": 0.08,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28491": {
+          "Id": 28491,
+          "Code": "EIBORROW",
+          "Submissions": [
+            {
+              "Id": 18247563,
+              "Time": "2016-11-24T02:42:26Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247575,
+              "Time": "2016-11-24T02:46:10Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247576,
+              "Time": "2016-11-24T02:46:13Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247587,
+              "Time": "2016-11-24T02:48:30Z",
+              "Score": 100.0,
+              "RunTime": 0.35,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247744,
+              "Time": "2016-11-24T03:29:45Z",
+              "Score": 100.0,
+              "RunTime": 5.74,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "387609": {
+      "UserId": 387609,
+      "Username": "ei150006chau",
+      "DisplayName": "chaukim",
+      "Email": "chau.vo.set15@eiu.edu.vn",
+      "Problems": {
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18228092,
+              "Time": "2016-11-21T01:50:08Z",
+              "Score": 8.0,
+              "RunTime": 0.01,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228096,
+              "Time": "2016-11-21T01:52:03Z",
+              "Score": 100.0,
+              "RunTime": 0.06,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228296,
+              "Time": "2016-11-21T02:24:22Z",
+              "Score": 76.19,
+              "RunTime": 0.59,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228310,
+              "Time": "2016-11-21T02:28:03Z",
+              "Score": 52.38,
+              "RunTime": 0.61,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228315,
+              "Time": "2016-11-21T02:29:27Z",
+              "Score": 100.0,
+              "RunTime": 3.03,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26596": {
+          "Id": 26596,
+          "Code": "PROTRIENLAM",
+          "Submissions": [
+            {
+              "Id": 18247191,
+              "Time": "2016-11-24T00:57:42Z",
+              "Score": 100.0,
+              "RunTime": 0.07,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28619": {
+          "Id": 28619,
+          "Code": "EIPAINTING",
+          "Submissions": [
+            {
+              "Id": 18247206,
+              "Time": "2016-11-24T01:03:35Z",
+              "Score": 100.0,
+              "RunTime": 3.69,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18247283,
+              "Time": "2016-11-24T01:24:29Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247297,
+              "Time": "2016-11-24T01:28:02Z",
+              "Score": 100.0,
+              "RunTime": 5.69,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28660": {
+          "Id": 28660,
+          "Code": "EISECRETFUNCTION",
+          "Submissions": [
+            {
+              "Id": 18247353,
+              "Time": "2016-11-24T01:44:14Z",
+              "Score": 100.0,
+              "RunTime": 0.69,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247374,
+              "Time": "2016-11-24T01:48:50Z",
+              "Score": 100.0,
+              "RunTime": 0.23,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247407,
+              "Time": "2016-11-24T02:01:35Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247473,
+              "Time": "2016-11-24T02:18:10Z",
+              "Score": 100.0,
+              "RunTime": 5.12,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "387613": {
+      "UserId": 387613,
+      "Username": "ei150007thu",
+      "DisplayName": "minhthu",
+      "Email": "thu.huynh.set15@eiu.edu.vn",
+      "Problems": {
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228047,
+              "Time": "2016-11-21T01:44:10Z",
+              "Score": 100.0,
+              "RunTime": 4.23,
+              "Language": "C#"
+            }
+          ]
+        },
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228219,
+              "Time": "2016-11-21T02:12:47Z",
+              "Score": 100.0,
+              "RunTime": 0.45,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18228643,
+              "Time": "2016-11-21T03:38:25Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": ""
+            },
+            {
+              "Id": 18228660,
+              "Time": "2016-11-21T03:40:57Z",
+              "Score": 100.0,
+              "RunTime": 3.87,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26596": {
+          "Id": 26596,
+          "Code": "PROTRIENLAM",
+          "Submissions": [
+            {
+              "Id": 18247172,
+              "Time": "2016-11-24T00:51:52Z",
+              "Score": 100.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28491": {
+          "Id": 28491,
+          "Code": "EIBORROW",
+          "Submissions": [
+            {
+              "Id": 18247190,
+              "Time": "2016-11-24T00:57:36Z",
+              "Score": 100.0,
+              "RunTime": 0.55,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28619": {
+          "Id": 28619,
+          "Code": "EIPAINTING",
+          "Submissions": [
+            {
+              "Id": 18247232,
+              "Time": "2016-11-24T01:09:43Z",
+              "Score": 100.0,
+              "RunTime": 4.41,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18247289,
+              "Time": "2016-11-24T01:26:26Z",
+              "Score": 100.0,
+              "RunTime": 0.31,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29333": {
+          "Id": 29333,
+          "Code": "EITHIEF2",
+          "Submissions": [
+            {
+              "Id": 18247338,
+              "Time": "2016-11-24T01:40:55Z",
+              "Score": 100.0,
+              "RunTime": 1.06,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28660": {
+          "Id": 28660,
+          "Code": "EISECRETFUNCTION",
+          "Submissions": [
+            {
+              "Id": 18247386,
+              "Time": "2016-11-24T01:52:52Z",
+              "Score": 100.0,
+              "RunTime": 0.68,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247430,
+              "Time": "2016-11-24T02:06:02Z",
+              "Score": 100.0,
+              "RunTime": 5.07,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23770": {
+          "Id": 23770,
+          "Code": "SE_0021",
+          "Submissions": [
+            {
+              "Id": 18247447,
+              "Time": "2016-11-24T02:10:43Z",
+              "Score": 100.0,
+              "RunTime": 0.08,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28746": {
+          "Id": 28746,
+          "Code": "EITWOPRIME",
+          "Submissions": [
+            {
+              "Id": 18247524,
+              "Time": "2016-11-24T02:30:35Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247532,
+              "Time": "2016-11-24T02:32:48Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247540,
+              "Time": "2016-11-24T02:34:35Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247607,
+              "Time": "2016-11-24T02:52:16Z",
+              "Score": 100.0,
+              "RunTime": 0.13,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247660,
+              "Time": "2016-11-24T03:02:21Z",
+              "Score": 100.0,
+              "RunTime": 0.23,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "412480": {
+      "UserId": 412480,
+      "Username": "ei120016nguyen",
+      "DisplayName": "Nguyên Trương",
+      "Email": "nguyen.truong.k2set@eiu.edu.vn",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228032,
+              "Time": "2016-11-21T01:41:52Z",
+              "Score": 100.0,
+              "RunTime": 0.45,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228202,
+              "Time": "2016-11-21T02:09:44Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228277,
+              "Time": "2016-11-21T02:21:22Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228307,
+              "Time": "2016-11-21T02:27:03Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228361,
+              "Time": "2016-11-21T02:36:25Z",
+              "Score": 100.0,
+              "RunTime": 7.62,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247271,
+              "Time": "2016-11-24T01:21:40Z",
+              "Score": 100.0,
+              "RunTime": 4.99,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247347,
+              "Time": "2016-11-24T01:43:13Z",
+              "Score": 100.0,
+              "RunTime": 0.27,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "412880": {
+      "UserId": 412880,
+      "Username": "ei119019thoa",
+      "DisplayName": "Thoa Nguyen",
+      "Email": "thoa.nguyen.k1set@eiu.edu.vn",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228336,
+              "Time": "2016-11-21T02:32:40Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228346,
+              "Time": "2016-11-21T02:34:14Z",
+              "Score": 77.78,
+              "RunTime": 0.36,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228362,
+              "Time": "2016-11-21T02:36:41Z",
+              "Score": 77.78,
+              "RunTime": 0.38,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228400,
+              "Time": "2016-11-21T02:43:56Z",
+              "Score": 100.0,
+              "RunTime": 0.47,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28491": {
+          "Id": 28491,
+          "Code": "EIBORROW",
+          "Submissions": [
+            {
+              "Id": 18247171,
+              "Time": "2016-11-24T00:51:37Z",
+              "Score": 100.0,
+              "RunTime": 2.98,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247189,
+              "Time": "2016-11-24T00:57:34Z",
+              "Score": 100.0,
+              "RunTime": 0.22,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28619": {
+          "Id": 28619,
+          "Code": "EIPAINTING",
+          "Submissions": [
+            {
+              "Id": 18247198,
+              "Time": "2016-11-24T01:01:28Z",
+              "Score": 100.0,
+              "RunTime": 4.56,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18247219,
+              "Time": "2016-11-24T01:06:14Z",
+              "Score": 100.0,
+              "RunTime": 0.19,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18247238,
+              "Time": "2016-11-24T01:12:00Z",
+              "Score": 100.0,
+              "RunTime": 3.94,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247259,
+              "Time": "2016-11-24T01:17:18Z",
+              "Score": 100.0,
+              "RunTime": 5.16,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18247282,
+              "Time": "2016-11-24T01:24:28Z",
+              "Score": 100.0,
+              "RunTime": 5.03,
+              "Language": "C#"
+            }
+          ]
+        },
+        "24000": {
+          "Id": 24000,
+          "Code": "LOGGING",
+          "Submissions": [
+            {
+              "Id": 18247312,
+              "Time": "2016-11-24T01:32:07Z",
+              "Score": 100.0,
+              "RunTime": 0.42,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28660": {
+          "Id": 28660,
+          "Code": "EISECRETFUNCTION",
+          "Submissions": [
+            {
+              "Id": 18247343,
+              "Time": "2016-11-24T01:42:20Z",
+              "Score": 100.0,
+              "RunTime": 0.48,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23770": {
+          "Id": 23770,
+          "Code": "SE_0021",
+          "Submissions": [
+            {
+              "Id": 18247388,
+              "Time": "2016-11-24T01:54:10Z",
+              "Score": 100.0,
+              "RunTime": 0.1,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26596": {
+          "Id": 26596,
+          "Code": "PROTRIENLAM",
+          "Submissions": [
+            {
+              "Id": 18247422,
+              "Time": "2016-11-24T02:04:35Z",
+              "Score": 100.0,
+              "RunTime": 0.1,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "440121": {
+      "UserId": 440121,
+      "Username": "ei120005vuly",
+      "DisplayName": "Vu Ly",
+      "Email": "vu.ly.k2set@eiu.edu.vn",
+      "Problems": {
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18227947,
+              "Time": "2016-11-21T01:26:15Z",
+              "Score": 100.0,
+              "RunTime": 6.06,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18228050,
+              "Time": "2016-11-21T01:44:33Z",
+              "Score": 100.0,
+              "RunTime": 3.19,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18228273,
+              "Time": "2016-11-21T02:20:20Z",
+              "Score": 100.0,
+              "RunTime": 4.15,
+              "Language": "C#"
+            }
+          ]
+        },
+        "24001": {
+          "Id": 24001,
+          "Code": "EIUGAME",
+          "Submissions": [
+            {
+              "Id": 18228467,
+              "Time": "2016-11-21T02:58:08Z",
+              "Score": 85.0,
+              "RunTime": 0.51,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247173,
+              "Time": "2016-11-24T00:52:33Z",
+              "Score": 100.0,
+              "RunTime": 0.23,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "440123": {
+      "UserId": 440123,
+      "Username": "ei120003duc",
+      "DisplayName": "Lương Duy Đức",
+      "Email": "duc.luong.k2set@eiu.edu.vn",
+      "Problems": {
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18228011,
+              "Time": "2016-11-21T01:38:44Z",
+              "Score": 100.0,
+              "RunTime": 7.55,
+              "Language": "C#"
+            }
+          ]
+        },
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228150,
+              "Time": "2016-11-21T02:01:15Z",
+              "Score": 100.0,
+              "RunTime": 0.5,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228205,
+              "Time": "2016-11-21T02:10:24Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228218,
+              "Time": "2016-11-21T02:12:35Z",
+              "Score": 66.67,
+              "RunTime": 0.18,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228242,
+              "Time": "2016-11-21T02:15:41Z",
+              "Score": 66.67,
+              "RunTime": 0.18,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228261,
+              "Time": "2016-11-21T02:18:59Z",
+              "Score": 4.76,
+              "RunTime": 0.01,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228303,
+              "Time": "2016-11-21T02:25:28Z",
+              "Score": 100.0,
+              "RunTime": 5.05,
+              "Language": "C#"
+            }
+          ]
+        },
+        "24046": {
+          "Id": 24046,
+          "Code": "EITAX",
+          "Submissions": [
+            {
+              "Id": 18228565,
+              "Time": "2016-11-21T03:19:19Z",
+              "Score": 100.0,
+              "RunTime": 0.34,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247258,
+              "Time": "2016-11-24T01:17:03Z",
+              "Score": 100.0,
+              "RunTime": 0.27,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247346,
+              "Time": "2016-11-24T01:43:12Z",
+              "Score": 100.0,
+              "RunTime": 5.69,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "440128": {
+      "UserId": 440128,
+      "Username": "ei120013tin",
+      "DisplayName": "NguyenVanTin",
+      "Email": "tin.nguyen.k2set@eiu.edu.vn",
+      "Problems": {}
+    },
+    "440129": {
+      "UserId": 440129,
+      "Username": "ei120017minh",
+      "DisplayName": "ei120017minh",
+      "Email": "minh.tran.k2set@eiu.edu.vn",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228194,
+              "Time": "2016-11-21T02:08:31Z",
+              "Score": 100.0,
+              "RunTime": 0.84,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28619": {
+          "Id": 28619,
+          "Code": "EIPAINTING",
+          "Submissions": [
+            {
+              "Id": 18247302,
+              "Time": "2016-11-24T01:29:29Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": ""
+            },
+            {
+              "Id": 18247303,
+              "Time": "2016-11-24T01:29:40Z",
+              "Score": 100.0,
+              "RunTime": 4.51,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26596": {
+          "Id": 26596,
+          "Code": "PROTRIENLAM",
+          "Submissions": [
+            {
+              "Id": 18247305,
+              "Time": "2016-11-24T01:30:09Z",
+              "Score": 100.0,
+              "RunTime": 0.06,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18247357,
+              "Time": "2016-11-24T01:46:13Z",
+              "Score": 100.0,
+              "RunTime": 0.14,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29333": {
+          "Id": 29333,
+          "Code": "EITHIEF2",
+          "Submissions": [
+            {
+              "Id": 18247362,
+              "Time": "2016-11-24T01:47:07Z",
+              "Score": 100.0,
+              "RunTime": 0.33,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28746": {
+          "Id": 28746,
+          "Code": "EITWOPRIME",
+          "Submissions": [
+            {
+              "Id": 18247476,
+              "Time": "2016-11-24T02:19:58Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247480,
+              "Time": "2016-11-24T02:21:08Z",
+              "Score": 100.0,
+              "RunTime": 0.12,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28660": {
+          "Id": 28660,
+          "Code": "EISECRETFUNCTION",
+          "Submissions": [
+            {
+              "Id": 18247539,
+              "Time": "2016-11-24T02:34:28Z",
+              "Score": 100.0,
+              "RunTime": 0.23,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23770": {
+          "Id": 23770,
+          "Code": "SE_0021",
+          "Submissions": [
+            {
+              "Id": 18247585,
+              "Time": "2016-11-24T02:48:27Z",
+              "Score": 0.0,
+              "RunTime": 0.06,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247593,
+              "Time": "2016-11-24T02:49:28Z",
+              "Score": 0.0,
+              "RunTime": 0.06,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247622,
+              "Time": "2016-11-24T02:54:07Z",
+              "Score": 0.0,
+              "RunTime": 0.06,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247694,
+              "Time": "2016-11-24T03:14:00Z",
+              "Score": 0.0,
+              "RunTime": 0.06,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247780,
+              "Time": "2016-11-24T03:37:37Z",
+              "Score": 0.0,
+              "RunTime": 0.01,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247789,
+              "Time": "2016-11-24T03:39:03Z",
+              "Score": 100.0,
+              "RunTime": 0.07,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26849": {
+          "Id": 26849,
+          "Code": "C4_A002",
+          "Submissions": [
+            {
+              "Id": 18247664,
+              "Time": "2016-11-24T03:04:17Z",
+              "Score": 0.0,
+              "RunTime": 0.04,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247678,
+              "Time": "2016-11-24T03:09:27Z",
+              "Score": 100.0,
+              "RunTime": 0.34,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18247724,
+              "Time": "2016-11-24T03:24:47Z",
+              "Score": 50.0,
+              "RunTime": 0.13,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247741,
+              "Time": "2016-11-24T03:28:49Z",
+              "Score": 50.0,
+              "RunTime": 0.13,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247752,
+              "Time": "2016-11-24T03:31:18Z",
+              "Score": 100.0,
+              "RunTime": 5.8,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247746,
+              "Time": "2016-11-24T03:30:35Z",
+              "Score": 100.0,
+              "RunTime": 5.18,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247808,
+              "Time": "2016-11-24T03:46:16Z",
+              "Score": 100.0,
+              "RunTime": 0.17,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "452614": {
+      "UserId": 452614,
+      "Username": "ei120002hailam",
+      "DisplayName": "Thanh Hai",
+      "Email": "hai.lam.k2set@eiu.edu.vn",
+      "Problems": {
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228040,
+              "Time": "2016-11-21T01:43:18Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228044,
+              "Time": "2016-11-21T01:43:57Z",
+              "Score": 100.0,
+              "RunTime": 7.43,
+              "Language": "C#"
+            }
+          ]
+        },
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228227,
+              "Time": "2016-11-21T02:13:37Z",
+              "Score": 100.0,
+              "RunTime": 0.42,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247315,
+              "Time": "2016-11-24T01:32:58Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247333,
+              "Time": "2016-11-24T01:38:49Z",
+              "Score": 100.0,
+              "RunTime": 0.18,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247417,
+              "Time": "2016-11-24T02:03:28Z",
+              "Score": 100.0,
+              "RunTime": 5.03,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18247507,
+              "Time": "2016-11-24T02:26:25Z",
+              "Score": 100.0,
+              "RunTime": 5.77,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "453359": {
+      "UserId": 453359,
+      "Username": "ei120006tai",
+      "DisplayName": "Nguyễn Tài",
+      "Email": "tai.nguyen.k2set@eiu.edu.vn",
+      "Problems": {
+        "24001": {
+          "Id": 24001,
+          "Code": "EIUGAME",
+          "Submissions": [
+            {
+              "Id": 18228270,
+              "Time": "2016-11-21T02:20:01Z",
+              "Score": 100.0,
+              "RunTime": 1.68,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247245,
+              "Time": "2016-11-24T01:14:41Z",
+              "Score": 100.0,
+              "RunTime": 0.19,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247252,
+              "Time": "2016-11-24T01:15:30Z",
+              "Score": 100.0,
+              "RunTime": 0.21,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247253,
+              "Time": "2016-11-24T01:15:37Z",
+              "Score": 100.0,
+              "RunTime": 0.1,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247254,
+              "Time": "2016-11-24T01:15:42Z",
+              "Score": 100.0,
+              "RunTime": 0.19,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "453360": {
+      "UserId": 453360,
+      "Username": "ei129046ngan",
+      "DisplayName": "Bùi Vạn Ngân",
+      "Email": "ngan.bui.k2set@eiu.edu.vn",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18227988,
+              "Time": "2016-11-21T01:34:34Z",
+              "Score": 66.67,
+              "RunTime": 0.37,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228002,
+              "Time": "2016-11-21T01:37:25Z",
+              "Score": 66.67,
+              "RunTime": 0.38,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228027,
+              "Time": "2016-11-21T01:41:11Z",
+              "Score": 100.0,
+              "RunTime": 0.46,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228099,
+              "Time": "2016-11-21T01:52:19Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228139,
+              "Time": "2016-11-21T01:59:49Z",
+              "Score": 100.0,
+              "RunTime": 4.29,
+              "Language": "C#"
+            }
+          ]
+        },
+        "24046": {
+          "Id": 24046,
+          "Code": "EITAX",
+          "Submissions": [
+            {
+              "Id": 18228302,
+              "Time": "2016-11-21T02:25:23Z",
+              "Score": 90.0,
+              "RunTime": 0.29,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28660": {
+          "Id": 28660,
+          "Code": "EISECRETFUNCTION",
+          "Submissions": [
+            {
+              "Id": 18247169,
+              "Time": "2016-11-24T00:50:35Z",
+              "Score": 100.0,
+              "RunTime": 0.44,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18247199,
+              "Time": "2016-11-24T01:01:29Z",
+              "Score": 100.0,
+              "RunTime": 4.19,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28619": {
+          "Id": 28619,
+          "Code": "EIPAINTING",
+          "Submissions": [
+            {
+              "Id": 18247217,
+              "Time": "2016-11-24T01:05:14Z",
+              "Score": 100.0,
+              "RunTime": 3.69,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247250,
+              "Time": "2016-11-24T01:15:13Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247261,
+              "Time": "2016-11-24T01:17:39Z",
+              "Score": 5.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247268,
+              "Time": "2016-11-24T01:20:10Z",
+              "Score": 5.0,
+              "RunTime": 0.01,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247285,
+              "Time": "2016-11-24T01:24:59Z",
+              "Score": 5.0,
+              "RunTime": 0.01,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247296,
+              "Time": "2016-11-24T01:27:27Z",
+              "Score": 5.0,
+              "RunTime": 0.01,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247306,
+              "Time": "2016-11-24T01:30:39Z",
+              "Score": 5.0,
+              "RunTime": 0.01,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247323,
+              "Time": "2016-11-24T01:34:49Z",
+              "Score": 5.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247352,
+              "Time": "2016-11-24T01:44:12Z",
+              "Score": 100.0,
+              "RunTime": 0.23,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18247397,
+              "Time": "2016-11-24T01:58:17Z",
+              "Score": 100.0,
+              "RunTime": 5.63,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "453592": {
+      "UserId": 453592,
+      "Username": "ei120036chau",
+      "DisplayName": "Châu Lâm",
+      "Email": "chau.lam.k2set@eiu.edu.vn",
+      "Problems": {
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228035,
+              "Time": "2016-11-21T01:42:15Z",
+              "Score": 100.0,
+              "RunTime": 7.81,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18228230,
+              "Time": "2016-11-21T02:13:56Z",
+              "Score": 100.0,
+              "RunTime": 5.66,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18228446,
+              "Time": "2016-11-21T02:54:17Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228455,
+              "Time": "2016-11-21T02:55:34Z",
+              "Score": 40.0,
+              "RunTime": 6.55,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228462,
+              "Time": "2016-11-21T02:56:53Z",
+              "Score": 40.0,
+              "RunTime": 6.56,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228481,
+              "Time": "2016-11-21T03:00:29Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228482,
+              "Time": "2016-11-21T03:01:05Z",
+              "Score": 40.0,
+              "RunTime": 6.39,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228486,
+              "Time": "2016-11-21T03:02:12Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228491,
+              "Time": "2016-11-21T03:02:48Z",
+              "Score": 90.0,
+              "RunTime": 7.1,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228531,
+              "Time": "2016-11-21T03:11:54Z",
+              "Score": 90.0,
+              "RunTime": 7.05,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228538,
+              "Time": "2016-11-21T03:12:36Z",
+              "Score": 90.0,
+              "RunTime": 6.99,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228593,
+              "Time": "2016-11-21T03:25:18Z",
+              "Score": 90.0,
+              "RunTime": 6.98,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247179,
+              "Time": "2016-11-24T00:54:07Z",
+              "Score": 5.0,
+              "RunTime": 0.01,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247184,
+              "Time": "2016-11-24T00:55:43Z",
+              "Score": 100.0,
+              "RunTime": 0.23,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "453594": {
+      "UserId": 453594,
+      "Username": "ei120004phuong",
+      "DisplayName": "ei120004phuong",
+      "Email": "phuong.ly.k2set@eiu.edu.vn",
+      "Problems": {
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228054,
+              "Time": "2016-11-21T01:45:16Z",
+              "Score": 66.67,
+              "RunTime": 0.19,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228458,
+              "Time": "2016-11-21T02:56:40Z",
+              "Score": 100.0,
+              "RunTime": 5.25,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18228121,
+              "Time": "2016-11-21T01:56:17Z",
+              "Score": 100.0,
+              "RunTime": 0.09,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18228399,
+              "Time": "2016-11-21T02:43:52Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228422,
+              "Time": "2016-11-21T02:47:56Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228436,
+              "Time": "2016-11-21T02:50:38Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228490,
+              "Time": "2016-11-21T03:02:43Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228634,
+              "Time": "2016-11-21T03:36:28Z",
+              "Score": 100.0,
+              "RunTime": 4.24,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247166,
+              "Time": "2016-11-24T00:50:06Z",
+              "Score": 100.0,
+              "RunTime": 0.22,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "453603": {
+      "UserId": 453603,
+      "Username": "ei129043nhiton",
+      "DisplayName": "Tôn Huệ Nhi",
+      "Email": "nhi.ton.k2set@eiu.edu.vn",
+      "Problems": {
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228004,
+              "Time": "2016-11-21T01:37:42Z",
+              "Score": 100.0,
+              "RunTime": 6.05,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18228101,
+              "Time": "2016-11-21T01:52:54Z",
+              "Score": 100.0,
+              "RunTime": 0.16,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18228178,
+              "Time": "2016-11-21T02:05:47Z",
+              "Score": 50.0,
+              "RunTime": 0.08,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228196,
+              "Time": "2016-11-21T02:08:36Z",
+              "Score": 80.0,
+              "RunTime": 4.5,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228208,
+              "Time": "2016-11-21T02:10:44Z",
+              "Score": 50.0,
+              "RunTime": 0.1,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228223,
+              "Time": "2016-11-21T02:13:26Z",
+              "Score": 80.0,
+              "RunTime": 4.52,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228238,
+              "Time": "2016-11-21T02:15:14Z",
+              "Score": 80.0,
+              "RunTime": 4.47,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228255,
+              "Time": "2016-11-21T02:17:42Z",
+              "Score": 50.0,
+              "RunTime": 0.09,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228282,
+              "Time": "2016-11-21T02:22:17Z",
+              "Score": 80.0,
+              "RunTime": 4.48,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228414,
+              "Time": "2016-11-21T02:46:50Z",
+              "Score": 90.0,
+              "RunTime": 5.38,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228427,
+              "Time": "2016-11-21T02:48:14Z",
+              "Score": 50.0,
+              "RunTime": 0.11,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228453,
+              "Time": "2016-11-21T02:55:28Z",
+              "Score": 90.0,
+              "RunTime": 5.37,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228471,
+              "Time": "2016-11-21T02:58:45Z",
+              "Score": 100.0,
+              "RunTime": 6.17,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18228579,
+              "Time": "2016-11-21T03:22:09Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228596,
+              "Time": "2016-11-21T03:26:04Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228601,
+              "Time": "2016-11-21T03:27:53Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228610,
+              "Time": "2016-11-21T03:30:23Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228614,
+              "Time": "2016-11-21T03:32:02Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247176,
+              "Time": "2016-11-24T00:53:37Z",
+              "Score": 100.0,
+              "RunTime": 0.24,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26596": {
+          "Id": 26596,
+          "Code": "PROTRIENLAM",
+          "Submissions": [
+            {
+              "Id": 18247215,
+              "Time": "2016-11-24T01:05:06Z",
+              "Score": 100.0,
+              "RunTime": 0.1,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "453838": {
+      "UserId": 453838,
+      "Username": "ei120016khanhp",
+      "DisplayName": "Khanh Phan",
+      "Email": "khanh.phan.k2set@eiu.edu.vn",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228095,
+              "Time": "2016-11-21T01:50:56Z",
+              "Score": 11.11,
+              "RunTime": 0.01,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228129,
+              "Time": "2016-11-21T01:57:53Z",
+              "Score": 100.0,
+              "RunTime": 0.67,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18228289,
+              "Time": "2016-11-21T02:23:28Z",
+              "Score": 100.0,
+              "RunTime": 11.13,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28619": {
+          "Id": 28619,
+          "Code": "EIPAINTING",
+          "Submissions": [
+            {
+              "Id": 18247200,
+              "Time": "2016-11-24T01:02:12Z",
+              "Score": 100.0,
+              "RunTime": 3.74,
+              "Language": "C#"
+            }
+          ]
+        },
+        "26596": {
+          "Id": 26596,
+          "Code": "PROTRIENLAM",
+          "Submissions": [
+            {
+              "Id": 18247208,
+              "Time": "2016-11-24T01:04:05Z",
+              "Score": 100.0,
+              "RunTime": 0.05,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23770": {
+          "Id": 23770,
+          "Code": "SE_0021",
+          "Submissions": [
+            {
+              "Id": 18247231,
+              "Time": "2016-11-24T01:08:53Z",
+              "Score": 100.0,
+              "RunTime": 0.09,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29007": {
+          "Id": 29007,
+          "Code": "EITHIEF",
+          "Submissions": [
+            {
+              "Id": 18247246,
+              "Time": "2016-11-24T01:14:47Z",
+              "Score": 100.0,
+              "RunTime": 0.15,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28746": {
+          "Id": 28746,
+          "Code": "EITWOPRIME",
+          "Submissions": [
+            {
+              "Id": 18247265,
+              "Time": "2016-11-24T01:19:29Z",
+              "Score": 100.0,
+              "RunTime": 0.17,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29333": {
+          "Id": 29333,
+          "Code": "EITHIEF2",
+          "Submissions": [
+            {
+              "Id": 18247274,
+              "Time": "2016-11-24T01:22:13Z",
+              "Score": 100.0,
+              "RunTime": 0.18,
+              "Language": "C#"
+            }
+          ]
+        },
+        "24000": {
+          "Id": 24000,
+          "Code": "LOGGING",
+          "Submissions": [
+            {
+              "Id": 18247299,
+              "Time": "2016-11-24T01:28:36Z",
+              "Score": 100.0,
+              "RunTime": 0.39,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247324,
+              "Time": "2016-11-24T01:35:39Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247344,
+              "Time": "2016-11-24T01:42:30Z",
+              "Score": 100.0,
+              "RunTime": 0.24,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "454166": {
+      "UserId": 454166,
+      "Username": "ei110005khang",
+      "DisplayName": "Khang",
+      "Email": "khang.le.k1set@eiu.edu.vn",
+      "Problems": {
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228026,
+              "Time": "2016-11-21T01:41:06Z",
+              "Score": 100.0,
+              "RunTime": 2.78,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18228477,
+              "Time": "2016-11-21T02:59:31Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228484,
+              "Time": "2016-11-21T03:01:54Z",
+              "Score": 100.0,
+              "RunTime": 5.83,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27251": {
+          "Id": 27251,
+          "Code": "EIUCONS",
+          "Submissions": [
+            {
+              "Id": 18247207,
+              "Time": "2016-11-24T01:03:36Z",
+              "Score": 100.0,
+              "RunTime": 2.96,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247683,
+              "Time": "2016-11-24T03:11:54Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247696,
+              "Time": "2016-11-24T03:14:31Z",
+              "Score": 100.0,
+              "RunTime": 2.94,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23770": {
+          "Id": 23770,
+          "Code": "SE_0021",
+          "Submissions": [
+            {
+              "Id": 18247239,
+              "Time": "2016-11-24T01:12:01Z",
+              "Score": 100.0,
+              "RunTime": 0.07,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18247787,
+              "Time": "2016-11-24T03:38:44Z",
+              "Score": 50.0,
+              "RunTime": 0.11,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247814,
+              "Time": "2016-11-24T03:47:48Z",
+              "Score": 100.0,
+              "RunTime": 5.15,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28491": {
+          "Id": 28491,
+          "Code": "EIBORROW",
+          "Submissions": [
+            {
+              "Id": 18247829,
+              "Time": "2016-11-24T03:54:27Z",
+              "Score": 100.0,
+              "RunTime": 0.35,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29156": {
+          "Id": 29156,
+          "Code": "EILETTERS",
+          "Submissions": [
+            {
+              "Id": 18247861,
+              "Time": "2016-11-24T04:04:18Z",
+              "Score": 100.0,
+              "RunTime": 0.24,
+              "Language": "C#"
+            }
+          ]
+        },
+        "24000": {
+          "Id": 24000,
+          "Code": "LOGGING",
+          "Submissions": [
+            {
+              "Id": 18247912,
+              "Time": "2016-11-24T04:17:21Z",
+              "Score": 100.0,
+              "RunTime": 0.41,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    },
+    "454256": {
+      "UserId": 454256,
+      "Username": "ei129037phucn",
+      "DisplayName": "Phúc K2",
+      "Email": "phuc.nguyen.k2set@eiu.edu.vn",
+      "Problems": {
+        "26951": {
+          "Id": 26951,
+          "Code": "EIUSUBSET",
+          "Submissions": [
+            {
+              "Id": 18228021,
+              "Time": "2016-11-21T01:40:32Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228036,
+              "Time": "2016-11-21T01:42:15Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228059,
+              "Time": "2016-11-21T01:45:31Z",
+              "Score": 100.0,
+              "RunTime": 7.43,
+              "Language": "C#"
+            }
+          ]
+        },
+        "22688": {
+          "Id": 22688,
+          "Code": "EIUBISEA",
+          "Submissions": [
+            {
+              "Id": 18228221,
+              "Time": "2016-11-21T02:13:01Z",
+              "Score": 100.0,
+              "RunTime": 0.47,
+              "Language": "C#"
+            }
+          ]
+        },
+        "23321": {
+          "Id": 23321,
+          "Code": "EIUSEARC",
+          "Submissions": [
+            {
+              "Id": 18228518,
+              "Time": "2016-11-21T03:10:09Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228522,
+              "Time": "2016-11-21T03:10:36Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228557,
+              "Time": "2016-11-21T03:17:33Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228562,
+              "Time": "2016-11-21T03:18:40Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228584,
+              "Time": "2016-11-21T03:23:42Z",
+              "Score": 80.0,
+              "RunTime": 10.25,
+              "Language": "C#"
+            },
+            {
+              "Id": 18228609,
+              "Time": "2016-11-21T03:30:09Z",
+              "Score": 40.0,
+              "RunTime": 6.45,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28619": {
+          "Id": 28619,
+          "Code": "EIPAINTING",
+          "Submissions": [
+            {
+              "Id": 18247159,
+              "Time": "2016-11-24T00:48:24Z",
+              "Score": 32.0,
+              "RunTime": 0.53,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247170,
+              "Time": "2016-11-24T00:51:11Z",
+              "Score": 100.0,
+              "RunTime": 3.73,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28748": {
+          "Id": 28748,
+          "Code": "EIPYRAMID",
+          "Submissions": [
+            {
+              "Id": 18247212,
+              "Time": "2016-11-24T01:04:46Z",
+              "Score": 100.0,
+              "RunTime": 0.27,
+              "Language": "C#"
+            }
+          ]
+        },
+        "29333": {
+          "Id": 29333,
+          "Code": "EITHIEF2",
+          "Submissions": [
+            {
+              "Id": 18247308,
+              "Time": "2016-11-24T01:31:01Z",
+              "Score": 80.0,
+              "RunTime": 0.15,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247327,
+              "Time": "2016-11-24T01:36:30Z",
+              "Score": 100.0,
+              "RunTime": 0.32,
+              "Language": "C#"
+            }
+          ]
+        },
+        "27111": {
+          "Id": 27111,
+          "Code": "EIUMEDARRAY4",
+          "Submissions": [
+            {
+              "Id": 18247396,
+              "Time": "2016-11-24T01:58:06Z",
+              "Score": 100.0,
+              "RunTime": 5.68,
+              "Language": "C#"
+            },
+            {
+              "Id": 18247471,
+              "Time": "2016-11-24T02:17:28Z",
+              "Score": 0.0,
+              "RunTime": 0.0,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28746": {
+          "Id": 28746,
+          "Code": "EITWOPRIME",
+          "Submissions": [
+            {
+              "Id": 18247450,
+              "Time": "2016-11-24T02:11:16Z",
+              "Score": 100.0,
+              "RunTime": 0.14,
+              "Language": "C#"
+            }
+          ]
+        },
+        "28660": {
+          "Id": 28660,
+          "Code": "EISECRETFUNCTION",
+          "Submissions": [
+            {
+              "Id": 18247474,
+              "Time": "2016-11-24T02:19:27Z",
+              "Score": 100.0,
+              "RunTime": 0.61,
+              "Language": "C#"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "LastUpdated": "2016-11-24T15:13:02.7575597+07:00"
+}
